@@ -203,7 +203,7 @@ angular.module('reg')
           $state.go('app.dashboard');
         }
 
-        if (requireCompletedProfile && !Session.getUser().completedProfile) {
+        if (requireCompletedProfile && !Session.getUser().status.completedProfile) {
           event.preventDefault();
           $state.go('app.dashboard');
         }
