@@ -119,7 +119,7 @@ angular.module('reg')
               rules: [
                 {
                   type: 'empty',
-                  prompt: 'Please enter your school name.'
+                  prompt: 'Please enter your college name.'
                 }
               ]
             },
