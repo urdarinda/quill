@@ -776,8 +776,12 @@
         "school": "Florida International University",
         "state": "Florida"
     },
-    "mnnit.ac.in":{
+    "mnnit.ac.in": {
         "school": "MNNIT Allahabad",
+        "state": "UP"
+    },
+    "iiita.ac.in": {
+        "school": "Indian Institue of Information Technology Allahabad",
         "state": "UP"
     }
 }
