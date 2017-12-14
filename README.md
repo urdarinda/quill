@@ -66,7 +66,7 @@ Getting a local instance of Quill up and running takes less than 5 minutes! Star
 
 ```
 mkdir db
-mongod --dbpath db --bind_ip 127.0.0.1 --nohttpinterface
+mongod --dbpath db --bind_ip 127.0.0.1
 ```
 
 Install the necessary dependencies:
