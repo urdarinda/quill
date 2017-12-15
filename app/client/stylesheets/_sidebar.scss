@@ -6,6 +6,7 @@
   width: $sidebar-width;
   z-index: 999;
   overflow: auto;
+  font : 1em;
 
   @include transition-duration($sidebar-transition-time);
 
