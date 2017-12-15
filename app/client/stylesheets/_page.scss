@@ -6,7 +6,7 @@
     text-transform: uppercase;
     font-size: 2.5em;
     text-align: center;
-    color: $page-header-color;
+    color: #474550;
     letter-spacing: 8px;
     font-weight: 700;
     &.divided:after {
@@ -14,7 +14,7 @@
         width: 200px;
         display: block;
         margin: 1em auto 2em;
-        border-bottom: 4px solid $page-header-color;
+        border-bottom: 4px solid #5e5d65;
     }
 
     &.small {
